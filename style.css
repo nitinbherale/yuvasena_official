@@ -992,7 +992,8 @@ header .logo-menu-wrap .menu > ul > li a {
   font-size: 16px;
   font-weight: 500;
   text-transform: capitalize;
-  color: #000;
+  /*color: #000;*/
+  color: #f37437;
 }
 header .logo-menu-wrap .menu > ul > li > a > span {
   display: block;
