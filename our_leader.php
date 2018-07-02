@@ -53,7 +53,7 @@
                                         <li><a href="our_mission.php">Our Vision</a></li>
                                         <li><a href="history.php">Party History</a></li>
                                         <li><a href="idiology.php">Party Ideology</a></li>
-                                        <li><a href="#">Our Leader</a></li>
+                                        <li><a href="our_leader.php">Our Leader</a></li>
                                         <li><a href="achievements.php">Our Achievements</a></li>
                                     </ul>
                                 </li>
@@ -64,7 +64,7 @@
                                         <li><a href="video_gallery.php">Speeches</a></li>
                                         <li><a href="photo_gallery.php">Photos</a></li>
                                         <li><a href="video_gallery.php">Videos</a></li>
-                                        <li><a href="#">Press Releases</a></li>
+                                        <li><a href="">Press Releases</a></li>
                                     </ul>
                                 </li>
                                 <li><a href="in_focus.php"><span class="flaticon-eye"></span>In Focus</a></li>

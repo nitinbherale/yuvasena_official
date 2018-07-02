@@ -53,7 +53,7 @@
                                         <li><a href="our_mission.php">Our Vision</a></li>
                                         <li><a href="history.php">Party History</a></li>
                                         <li><a href="idiology.php">Party Ideology</a></li>
-                                        <li><a href="#">Our Leader</a></li>
+                                        <li><a href="our_leader.php">Our Leader</a></li>
                                         <li><a href="achievements.php">Our Achievements</a></li>
                                     </ul>
                                 </li>
