@@ -603,7 +603,7 @@ input[type="datetime-local"]:focus,
 input[type="color"]:focus,
 textarea:focus {
 	color: #333;
-	border-color: #4527a0;
+	border-color: #f37437;
 }
 
 select {
@@ -985,8 +985,8 @@ a:hover .nav-title,
     float: left;
 }
 .comment-author .avatar {
-	height: 75px;
-	width: 75px;
+	/*height: 75px;
+	width: 75px;*/
 }
 .comment-info b {
     float: left;
@@ -995,7 +995,7 @@ a:hover .nav-title,
 }
 .comment-info b > a {
     font-size: 16px;
-    color: #4527a0;
+    color: #f37437;
 }
 
 .comment-author .says {

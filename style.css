@@ -5789,7 +5789,7 @@ ul.list_style_square > li:before {
 }
 .comment-respond p > textarea,
 .comment-respond p > input {
-  background-color: transparent;
+  background-color: #eeeeee;
   border: 1px solid #efefef;
 }
 .comment-respond p .submit {

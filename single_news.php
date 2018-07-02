@@ -68,7 +68,7 @@
                                     </ul>
                                 </li>
                                 <li><a href="in_focus.php"><span class="flaticon-eye"></span>In Focus</a></li>
-                                <li><a href="join_us.php"><span class="flaticon-analytics"></span>Join Us</a></li>
+                                 <li><a href="join_us.php"><span class="flaticon-analytics"></span>Join Us</a></li>
                                 <li><a href="contact.php"><span class="flaticon-chat"></span>Contact us</a></li>
                             </ul>
                         </nav>
@@ -86,12 +86,12 @@
 
 
     <!-- Start Page Heading area -->
-    <div class="page_heading_area ptb-110 bg-image bg_overlay bg-img-fixed" style="background-image: url(images/slider/4.jpeg);">
+    <div class="page_heading_area ptb-110 bg-image bg_overlay bg-img-fixed" style="background-image: url(images/slider/2.jpg);">
         <div class="container">
             <div class="row">
                 <div class="col-md-12 text-center">
                     <div class="page_title">
-                        <h1>Latest News</h1>
+                        <h1>News</h1>
                         <p>Stay connect us</p>
                         <div class="divider">
                             <span></span>
@@ -104,33 +104,32 @@
     </div>
     <!-- End Page Heading area -->
 
-   <!-- Start page section area -->
-    <div id="page" class="page-section mtb-100">
-        <!-- Start Blog section -->
-        <div class="blog-section">
-            <div class="container">
-                <div class="row">
-                    <div class="col-md-8 col-sm-12">
-                        <main id="main" class="site-main">
-                            <article class="post post-large post-format-slide">
-                                <div class="post-thumbnail">
-                                    <div class="post-slide owl-carousel">
-                                        <a href="#"><img src="images/blog/a_t.jpg" alt="post"></a>
-                                        <a href="#"><img src="images/blog/aut.jpg" alt="post"></a>
-                                    </div>
-                                    <div class="entry-date">
-                                        <a href="#">
-                                            <span class="date">20 <b>June</b></span>
-                                        </a>
-                                    </div>
+    
+    <!-- Start page section area -->
+    <section id="page-section" class="single-post mtb-100">
+    <!-- Start Services Area -->
+       <div class="container">
+            <div class="row">
+                <div class="col-md-8 col-sm-12">
+                    <main id="main" class="site-main">
+                        <article class="post post-format-slide">
+                            <div class="post-thumbnail">
+                                <div class="post-slide owl-carousel">
+                                    <a href="#"><img src="images/blog/aut_news.jpg" alt="post"></a>
+                                    <a href="#"><img src="images/blog/aut_news.jpg" alt="post"></a>
                                 </div>
-                                <div class="entry-content">
-
+                                <div class="entry-date">
+                                    <a href="#">
+                                        <span class="date">20 <b>June</b></span>
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="entry-content">
+                                <div class="post-header">
                                     <h2 class="entry-title">
-                                        <a href="single_news.php">Shiv Sena can single-handedly win the upcoming elections, says Yuva Sena chief Aditya Thackeray</a>
+                                        <a href="#">Shiv Sena can single-handedly win the upcoming elections, says Yuva Sena chief Aditya Thackeray</a>
                                     </h2>
-                                    <p>Mumbai: Inaugurating the 52nd anniversary of the Shiv Sena in Goregaon on Tuesday, Yuva Sena chief Aditya Thackeray said that the Shiv Sena can single-handedly win the upcoming elections.
-                                    Aditya said that until now the Sena has never tested its true strength by going alone. “Now is the time for us to fight alone, win the polls and come to power on our own,” said Aditya.  He urged the Sainiks to work towards achieving this goal and embark on this mission right away.</p>
+                                    <p>Mumbai: Inaugurating the 52nd anniversary of the Shiv Sena in Goregaon on Tuesday, Yuva Sena chief Aditya Thackeray said that the Shiv Sena can single-handedly win the upcoming elections.</p>
                                     <div class="entry-meta">
                                         <span><i class="fa fa-user"></i> By <a href="#">Admin</a> </span>
                                         <span><i class="fa fa-folder-open"></i> <a href="#">Yuvasena</a> </span>
@@ -138,85 +137,163 @@
                                         <span><i class="fa fa-eye"></i> <a href="#">250 Views</a></span>
                                     </div>
                                 </div>
-                            </article>
-                            <article class="post post-large post-format-image">
-                                <div class="post-thumbnail">
-                                    <a href="#"><img src="images/blog/Aaditya-Thackeray.jpeg" alt="post"></a>
-                                    <div class="entry-date">
-                                        <a href="#">
-                                            <span class="date">22 <b>June</b></span>
-                                        </a>
-                                    </div>
+                                <p>Aditya said that until now the Sena has never tested its true strength by going alone. “Now is the time for us to fight alone, win the polls and come to power on our own,” said Aditya.  He urged the Sainiks to work towards achieving this goal and embark on this mission right away. “The power that we have in the state today and the struggles that we have undertaken thus far is because of our own efforts and dedication. No one has done us a favour,” he said addressing the huge gathering on Sena diwas.</p>
+                                <img class="text-right" src="images/blog/aut_single.jpg" alt="img">
+                                <p>In an oblique reference to the slender win of the BJP in Palghar by-polls, where the two parties had contested solo, Aditya accused the BJP of cheating. “While all eyes were on Sena, we saw the others wresting Palghar by cheating. But the moral victory is ours,” asserted Aditya. The Yuva Sena chief spoke of Sena’s political journey, saying it has been a struggle and a battle for the last 52 years. He called upon the Sainiks to take Sena to every nook and corner of the country. “It is important for us now to get majority in both the houses. We should not only strive to gain power in Maharashtra but also all over India,” he said.</p>
+                            </div>
+                            <div class="entry-footer">
+                                <div class="socila_share">
+                                    <ul class="share">
+                                        <li><a href="#"><i class="fa fa-dribbble"></i></a></li>
+                                        <li><a href="#"><i class="fa fa-behance"></i></a></li>
+                                        <li><a href="#"><i class="fa fa-facebook"></i></a></li>
+                                        <li><a href="#"><i class="fa fa-twitter"></i></a></li>
+                                        <li><a href="#"><i class="fa fa-skype"></i></a></li>
+                                    </ul>
                                 </div>
-                                <div class="entry-content">
-
-                                    <h2 class="entry-title">
-                                        <a href="single_news.php">Yuva Sena president Aaditya Thackeray justifies plastic ban, apologises for inconvenience</a>
-                                    </h2>
-                                    <p>Mumbai: Yuva Sena president Aaditya Thackeray, who is believed to be the prime mover behind the plastic ban in Maharashtra, today justified the measure for the sake of environment. Aaditya, son of Shiv Sena chief Uddhav Thackeray, also apologised to the people for the hardships being faced by them in the wake of the ban on single-use plastic.</p>
-
-                                    <div class="entry-meta">
-                                        <span><i class="fa fa-user"></i> By <a href="#">Admin</a> </span>
-                                        <span><i class="fa fa-folder-open"></i> <a href="#">Yuvasena</a> </span>
-                                        <span><i class="fa fa-comment"></i> <a href="#">20 Comments</a></span>
-                                        <span><i class="fa fa-eye"></i> <a href="#">250 Views</a></span>
-                                    </div>
-                                </div>
-                            </article>
-                            <article class="post post-large post-format-video">
-                                <div class="post-thumbnail">
-                                    <div class="post-video">
-                                        <a href="#"><img src="images/blog/aut2.jpg" alt="post"></a>
-                                        <div class="video__inner">
-                                            <a href="https://www.youtube.com/watch?v=da5LtBj59HQ" class="video__trigger"><i class="fa fa-play"></i></a>
+                                <!-- Start Post Navigation -->
+                                <nav class="navigation post-navigation">
+                                    <div class="nav-links">
+                                        <div class="nav-previous">
+                                            <a href="#" rel="prev">
+                                                <span>Previous</span>
+                                            </a>
+                                        </div>
+                                        <div class="nav-next">
+                                            <a href="#" rel="next">
+                                                <span>next post</span>
+                                            </a>
                                         </div>
                                     </div>
-                                    <div class="entry-date">
-                                        <a href="#">
-                                            <span class="date">27 <b>June</b></span>
-                                        </a>
-                                    </div>
-                                </div>
-                                <div class="entry-content">
+                                </nav><!-- End Post Navigation -->
+                            </div>
+                        </article>
+                        <!-- Start Comments area -->
+                        <div id="comments" class="comments-area">
+                            <h2 class="comments-title headline">3 Comments</h2>
+                            <ol class="comment-list">
+                                <li id="comment-1" class="comment even thread-even depth-1 parent">
+                                    <article class="comment-body">
+                                        <div class="comment-author vcard">
+                                            <img alt="card" src="images/blog/User-48.png" class="avatar photo">   
+                                        </div><!-- .comment-author -->
+                                        <div class="comment-info">
+                                            <div class="comment-info-inner">
+                                                <b class="fn">
+                                                    <a href="#" rel="external nofollow" class="url">Nitin S. Bherale</a>
+                                                </b> 
+                                                <div class="comment-meta">  
+                                                    <div class="comment-metadata">
+                                                        <a href="#">
+                                                            <span>30 June 2018</span>
+                                                        </a>
+                                                    </div><!-- .comment-metadata -->
+                                                    <div class="reply">
+                                                        <a class="comment-reply-link" href="#">Reply</a>
+                                                    </div>
+                                                </div><!-- .comment-meta -->
+                                            </div>
+                                            <div class="comment-content">
+                                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+                                                tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam</p>
+                                            </div><!-- .comment-content --> 
+                                        </div>      
+                                    </article><!-- .comment-body -->
+                                    <ol class="children">
+                                        <li id="comment-3" class="comment odd alt depth-2">
+                                            <article class="comment-body">
+                                                <div class="comment-author vcard">
+                                                    <img alt="card" src="images/blog/User-48.png" class="avatar photo">   
+                                                </div><!-- .comment-author -->
+                                                <div class="comment-info">
+                                                    <div class="comment-info-inner">
+                                                        <b class="fn">
+                                                            <a href="#" rel="external nofollow" class="url">Nitin Bherale</a>
+                                                        </b> 
+                                                        <div class="comment-meta">  
+                                                            <div class="comment-metadata">
+                                                                <a href="#">
+                                                                    <span>30 June 2018</span>
+                                                                </a>
+                                                            </div><!-- .comment-metadata -->
+                                                            <div class="reply">
+                                                                <a class="comment-reply-link" href="#">Reply</a>
+                                                            </div>
+                                                        </div><!-- .comment-meta -->
+                                                    </div>
+                                                    <div class="comment-content">
+                                                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+                                                tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam</p>
+                                                    </div><!-- .comment-content --> 
+                                                </div>      
+                                            </article><!-- .comment-body -->
+                                        </li><!-- #comment-## -->
+                                    </ol><!-- .children -->
+                                </li><!-- #comment-## -->
+                                <li id="comment-2" class="comment even thread-even depth-1 parent">
+                                    <article class="comment-body">
+                                        <div class="comment-author vcard">
+                                            <img alt="card" src="images/blog/User-48.png" class="avatar photo">   
+                                        </div><!-- .comment-author -->
+                                        <div class="comment-info">
+                                            <div class="comment-info-inner">
+                                                <b class="fn">
+                                                    <a href="#" rel="external nofollow" class="url">Nitin S. Bherale</a>
+                                                </b> 
+                                                <div class="comment-meta">  
+                                                    <div class="comment-metadata">
+                                                        <a href="#">
+                                                            <span>30 June 2018</span>
+                                                        </a>
+                                                    </div><!-- .comment-metadata -->
+                                                    <div class="reply">
+                                                        <a class="comment-reply-link" href="#">Reply</a>
+                                                    </div>
+                                                </div><!-- .comment-meta -->
+                                            </div>
+                                            <div class="comment-content">
+                                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+                                                tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam</p>
+                                            </div><!-- .comment-content --> 
+                                        </div>      
+                                    </article><!-- .comment-body -->
+                                </li><!-- #comment-## -->
+                            </ol>
+                        </div><!-- End Comments area -->
 
-                                    <h2 class="entry-title">
-                                        <a href="single_news.php">स्वबळावर लढू आणि जिंकूही : आदित्य ठाकरे</a>
-                                    </h2>
-                                    <p>मुंबई : शिवसेनेने स्वबळाचा नारा दिला आहे. आता आपल्याला स्वबळावर लढायचं आहे आणि स्वबळावर जिंकायचं आहे. आता जिंकल्याशिवाय शांत बसू नका. आपल्याला राज्यात सत्ता आणायचीच आहे, असे युवासेना प्रमुख आदित्य ठाकरे यांनी सांगितले.शिवसेनेच्या 52 व्या वर्धापन दिनाचा कार्यक्रम आज (मंगळवारी) मुंबईत होत आहे. शिवसेना आणि भाजप युतीतील तणावाच्या पार्श्‍वभूमीवर आदित्य ठाकरे यांनी पुन्हा एकदा स्वबळाचा नारा दिला आहे. या कार्यक्रमात उद्धव ठाकरे यांचेही भाषण होणार आहे.</p>
-
-                                    <div class="entry-meta">
-                                        <span><i class="fa fa-user"></i> By <a href="#">Admin</a> </span>
-                                        <span><i class="fa fa-folder-open"></i> <a href="#">Yuvasena</a> </span>
-                                        <span><i class="fa fa-comment"></i> <a href="#">20 Comments</a></span>
-                                        <span><i class="fa fa-eye"></i> <a href="#">250 Views</a></span>
+                        <!-- Start Comment Respond area -->
+                        <div id="respond" class="comment-respond">
+                            <h3 id="reply-title" class="comment-reply-title headline">Leave A Comment</h3>          
+                            <p>Your email address will not be published. Required fields are marked *</p>
+                            <form action="#" method="post" id="commentform" class="comment-form" novalidate="">
+                                <div class="row space_pd_15">
+                                    <div class="col-md-6 col-sm-6">
+                                        <p class="comment-form-author">
+                                            <input id="author" name="author" required="required" type="text" placeholder="Name *">
+                                        </p>
                                     </div>
-                                </div>
-                            </article>
-                            
-                            
-                        </main>
-                        <nav aria-label="Page navigation">
-                            <ul class="pagination">
-                                <li>
-                                    <a href="#" aria-label="Previous">
-                                        <i class="fa fa-angle-left"></i> Pre
-                                    </a>
-                                </li>
-                                <li><a href="#">1</a></li>
-                                <li><a href="#">2</a></li>
-                                <li><a href="#">3</a></li>
-                                <li><a href="#">4</a></li>
-                                <li><a href="#">5</a></li>
-                                <li>
-                                    <a href="#" aria-label="Next">
-                                    Next <i class="fa fa-angle-right"></i>
-                                    </a>
-                                </li>
-                            </ul>
-                        </nav>
-                    </div>
-                    <div class="col-md-4 col-sm-12">
-                        <aside class="sidebar">
+                                    <div class="col-md-6 col-sm-6">
+                                        <p class="comment-form-author">
+                                            <input id="subject" name="subject" required="required" type="text" placeholder="subject *">
+                                        </p>
+                                    </div>
+                                    <div class="col-md-12">
+                                        <p class="comment-form-comment">
+                                            <textarea id="comment" name="comment" required="required" placeholder="Write you comment"></textarea>
+                                        </p>
+                                    </div>
+                                    <div class="col-md-12">
+                                        <p class="form-submit">
+                                            <input name="submit" id="submit" class="submit" value="Submit" type="submit"> 
+                                        </p>
+                                    </div>
+                                </div>  
+                            </form>
+                        </div><!-- End Comments Respond area -->
+                    </main>
+                </div>
+                <div class="col-md-4 col-sm-12">
+                    <aside class="sidebar">
                             <!-- search widget -->
                             <div class="search-widget widget">
                                 <div class="widget-title">
@@ -224,9 +301,9 @@
                                 </div>
                                 <form role="search" method="get" class="search-form" action="#">
                                     <label>
-                                        <input type="search" class="search-field" placeholder="Tell Me! What’s you need...." value="" name="s" />
+                                        <input type="search" class="search-field" placeholder="Tell Me! What’s you need...." value="" name="s">
                                     </label>
-                                    <input type="submit" class="search-submit" value="Search" />
+                                    <input type="submit" class="search-submit" value="Search">
                                 </form>
                             </div>
 
@@ -277,7 +354,7 @@
                                             <a class="post-title" href="#">Lorem Ipsum is simply dummy text of the printing</a>
                                             <div class="post-meta">
                                                 <span><i class="fa fa-user"></i> By <a href="#">Admin</a> </span>
-                                                <span><i class="fa fa-clock-o"></i> 13 March 2018  </span>
+                                                <span><i class="fa fa-clock-o"></i> 13 June 2018  </span>
                                             </div>
                                         </div>
                                     </li>
@@ -305,7 +382,7 @@
                                             <a class="post-title" href="#">Lorem Ipsum is simply dummy text of the printing</a>
                                             <div class="post-meta">
                                                 <span><i class="fa fa-user"></i> <a href="#">Admin</a> </span>
-                                                <span><i class="fa fa-clock-o"></i> 13 March 2018  </span>
+                                                <span><i class="fa fa-clock-o"></i> 13 June 2018  </span>
                                             </div>
                                         </div>
                                     </li>
@@ -337,9 +414,9 @@
                                 </div>
                                 <form role="search" method="get" class="search-form" action="#">
                                     <label>
-                                        <input type="search" class="search-field" placeholder="Enter your email" value="" name="s" />
+                                        <input type="search" class="search-field" placeholder="Enter your email" value="" name="s">
                                     </label>
-                                    <input type="submit" class="search-submit" value="Submit" />
+                                    <input type="submit" class="search-submit" value="Submit">
                                 </form>
                             </div>
 
@@ -358,11 +435,11 @@
                                 </ul>
                             </div>
                         </aside>
-                    </div>
                 </div>
             </div>
-        </div><!-- End Blog section -->
-    </div>
+        </div>
+  
+    </section>
     <!-- End page section area -->
 
 

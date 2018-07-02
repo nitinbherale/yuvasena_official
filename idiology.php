@@ -152,7 +152,7 @@
                                 <!-- Start Single Career -->
                                 <div class="single_career">
                                     <div class="info">
-                                        <h3>- Dvelopment</h3>
+                                        <h3>- Development</h3>
                                         <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s</p>
                                     </div>
                                     <a href="#"><span class="flaticon-right-arrow"></span></a>
