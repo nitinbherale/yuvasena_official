@@ -390,13 +390,13 @@
                 </div><!--/.row-->
                 <div class="row">
                     <!-- Start Single Brand -->
-                	<div class="col-md-4 col-sm-12 col-xs-12">
+                	<div class="col-md-4 col-sm-12 col-xs-12 hidden-sm hidden-xs">
                 		<div class="single_brand shadow__black text-center">
                             <div class="fb_pg">
                             	<div class="panel panel-default">
                             		<div class="panel-heading"><i class="fa fa-youtube-play" aria-hidden="true"></i>&nbsp;&nbsp; Youtube</div>
                                         <div class="panel-body">
-                                            <iframe width="100%" height="260" src="https://www.youtube.com/embed/2nbj26Fuj0Y" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+                                              <h3>Coming soon..</h3>
                                           </div>
                                     </div>
                             </div>
@@ -410,20 +410,20 @@
                             	<div class="panel panel-default">
                             		<div class="panel-heading"><i class="fa fa-facebook-official" aria-hidden="true"></i>&nbsp;&nbsp; Facebook</div>
                                         <div class="panel-body">
-                                            <iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2Fyuvasena&tabs=timeline&width=340&height=500&small_header=false&adapt_container_width=true&hide_cover=false&show_facepile=true&appId" width="100%" height="260" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
+                                            <iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2Ftheyuvasena&tabs=timeline&width=340&height=500&small_header=false&adapt_container_width=true&hide_cover=false&show_facepile=true&appId" width="100%" height="140" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
                                           </div>
                                     </div>
                             </div>
                         </div>
                     </div><!-- End Single Brand -->
                     <!-- Start Single Brand -->
-                    <div class="col-md-4 col-sm-12 col-xs-12">
+                    <div class="col-md-4 col-sm-12 col-xs-12 hidden-sm hidden-xs">
                         <div class="single_brand shadow__black text-center">
                             <div class="twitter_pg">
                             	<div class="panel panel-default">
                             		<div class="panel-heading"><i class="fa fa-twitter-square" aria-hidden="true"></i>&nbsp;&nbsp; Twitter</div>
                                         <div class="panel-body">
-                                            -<a class="twitter-timeline" data-height="260" data-link-color="#E95F28" href="https://twitter.com/IMyuvasena?ref_src=twsrc%5Etfw">Tweets by IMyuvasena</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+                                            <h3>Coming soon..</h3>
                                           </div>
                                     </div>
                             </div>
@@ -449,10 +449,9 @@
     <!-- Main scripts -->
     <script src="js/main.js"></script>
     
-    <style>.panel-default>.panel-heading {
-    color: #fff;
-    background-color: #f37437;
-    border-color: #f37437;
-}</style>
+    <style>
+    .panel-default>.panel-heading {color: #fff;background-color: #f37437;border-color: #f37437;}
+    .panel-default {border-color: #ddd;height: 207px;}
+    </style>
 </body>
 </html>

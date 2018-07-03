@@ -123,11 +123,11 @@
                                 <p>Yuva Sena is the youth wing of Shiv Sena in India. It was founded by Aditya Thackeray, son of Shiv Sena Paksha Pramukh Uddhav Thackeray and grandson of Shivsena founder Bal Thackeray, on 17th Oct. 2010 at Shiv Sena's Dasara Melava.</p>
                                 <p>Mission 'Education, Health and Employment'; Activities under the wide umbrella of these three categories has transformed the Yuva Sena, in small span of time into a mass organization of the youth that, works not just on television and social networking sites, amongst intellectuals but at the grassroots among the teeming masses too, in tune with the Shiv Sena's tradition where social work is rated above politics. Sena (army when necessary) and Seva (service when needed) is the motto for this new age breed of Yuva Sainiks. Bustling with energy of the future and instilled with the wisdom of the past, the Yuva Sena is positioned as a forward thinking youth organization where attitude matters as much as aptitude.</p>
                                 <ul class="team_social text-right">
-                                    <li><a href="#"><i class="fa fa-facebook"></i></a></li>
+                                    <li><a href="www.facebook.com/theyuvasena/" target="_blank"><i class="fa fa-facebook"></i></a></li>
                                     <li><a href="#"><i class="fa fa-twitter"></i></a></li>
                                     <li><a href="#"><i class="fa fa-skype"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-behance"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-dribbble"></i></a></li>
+                                    <!--<li><a href="#"><i class="fa fa-behance"></i></a></li>
+                                    <li><a href="#"><i class="fa fa-dribbble"></i></a></li>-->
                                 </ul>
                             </div>
                         </div>

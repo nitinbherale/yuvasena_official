@@ -267,10 +267,11 @@
                             <h2 class="biography_title">For Better Tomorrow</h2>
                             <p>The Yuva Sena, the youth wing of the Shiv Sena, has emerged as the most potent forum for the youth to voice its opinion and grievances in Maharashtra. Since its inception, the Yuva Sena has been revolutionizing politics in Maharashtra, in a way no other youth organization has. Yuva Sena President Aditya Thackeray has created the concept of channelizing and transforming youth energy into service for the people. Built on these very lines, the Yuva Sena- Yuva Seva, it is about youngster's rights, duties and dedicated service. Come be a part of an active Today, for a better Tomorrow!!!</p>
                             <ul class="list_style_circle">
-                                <li>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</li>
-                                <li>There are many variations of passages of Lorem Ipsum available</li>
-                                <li>Simply dummy text of the printing and typesetting industry</li>
+                                <li>Yuva Sena is the youth wing of Shiv Sena in India. </li>
+                                <li> It was founded by Aditya Thackeray, son of Shiv Sena Paksha Pramukh Uddhav Thackeray and grandson of Shivsena founder Bal Thackeray, on 17th Oct. 2010 at Shiv Sena's Dasara Melava.</li>
+                                <li>In the last seven years, Yuva Sena has emerged as an active forum for the youth of Maharashtra to discuss concerning issues.</li>
                                 <li>It is a long established fact that a reader will be distracted by the readable</li>
+                                <li> It serves as an able platform for the youth to voice their opinions as well as grievances.</li>
                             </ul>
                             
                         </div><!--/.biography_content-->

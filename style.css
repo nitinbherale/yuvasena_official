@@ -1134,7 +1134,7 @@ header .logo-menu-wrap .menu > ul > li.dropdown-trigger:hover > .dropdown-conten
   min-height: 80px;
 }
 #sticky-header .logo-menu-wrap .menu > ul > li {
-  padding: 30px 35px 28px;
+  padding: 19px 35px 20px;
 }
 
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
@@ -1361,7 +1361,7 @@ header .logo-menu-wrap .menu > ul > li.dropdown-trigger:hover > .dropdown-conten
 }
 .slider .slider_inner .slider_item.slider_item_one .slider_content .btn-default:hover, .slider .slider_inner .slider_item.slider_item_one .slider_content .btn-default:focus {
   color: #fff !important;
-  background-color: #FFBA00;
+  background-color: #fdb34a;
 }
 .slider .slider_inner .slider_item.slider_style_two .slider_content {
   padding: 8px 0 1px 35px;

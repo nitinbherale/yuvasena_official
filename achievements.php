@@ -124,11 +124,11 @@
                                 <p>The Yuva Sena, the youth wing of the Shiv Sena, has emerged as the most potent forum for the youth to voice its opinion and grievances in Maharashtra. Since its inception, the Yuva Sena has been revolutionizing politics in Maharashtra, in a way no other youth organization has. Yuva Sena President Aditya Thackeray has created the concept of channelizing and transforming youth energy into service for the people. Built on these very lines, the Yuva Sena- Yuva Seva, it is about youngster's rights, duties and dedicated service. Come be a part of an active Today, for a better Tomorrow!!! </p>
                                 <p>Mission 'Education, Health and Employment'; Activities under the wide umbrella of these three categories has transformed the Yuva Sena, in small span of time into a mass organization of the youth that, works not just on television and social networking sites, amongst intellectuals but at the grassroots among the teeming masses too, in tune with the Shiv Sena's tradition where social work is rated above politics. </p>
                                 <ul class="team_social text-right">
-                                    <li><a href="#"><i class="fa fa-facebook"></i></a></li>
+                                    <li><a href="www.facebook.com/theyuvasena/" target="_blank"><i class="fa fa-facebook"></i></a></li>
                                     <li><a href="#"><i class="fa fa-twitter"></i></a></li>
                                     <li><a href="#"><i class="fa fa-skype"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-behance"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-dribbble"></i></a></li>
+                                    <!--<li><a href="#"><i class="fa fa-behance"></i></a></li>
+                                    <li><a href="#"><i class="fa fa-dribbble"></i></a></li>-->
                                 </ul>
                             </div>
                         </div>

@@ -8,7 +8,7 @@
                     <div class="col-md-8 col-full-width">
                         <div class="footer__description text-center">
                             <a href="index.php"><img src="images/logo/Yuvasena_Logo_white.png" alt="Yuvasena logo"></a>
-                            <p>If you have any questions or comments regarding our services, please do not hesitate to tell us!</p>
+                            <p>If you have any questions or comments regarding anything, please do not hesitate to tell us!</p>
                         </div>
                     </div>
                 </div>
@@ -58,11 +58,11 @@
                     </div>
                     <div class="col-md-4 col-sm-5 col-xs-12">
                         <ul class="footer_social_share">
-                            <li><a href="#"><i class="fa fa-dribbble"></i></a></li>
-                            <li><a href="#"><i class="fa fa-facebook"></i></a></li>
+                            <!--<li><a href="#"><i class="fa fa-dribbble"></i></a></li>-->
+                            <li><a href="www.facebook.com/theyuvasena/" target="_blank"><i class="fa fa-facebook"></i></a></li>
                             <li><a href="#"><i class="fa fa-twitter"></i></a></li>
                             <li><a href="#"><i class="fa fa-skype"></i></a></li>
-                            <li><a href="#"><i class="fa fa-behance"></i></a></li>
+                            <!--<li><a href="#"><i class="fa fa-behance"></i></a></li>-->
                         </ul><!-- Footer Social Share -->
                     </div>
                 </div>
