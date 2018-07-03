@@ -956,7 +956,7 @@ header .logo-menu-wrap {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  min-height: 110px;
+  min-height: 100px;
 }
 header .logo-menu-wrap .logo {
   -webkit-transition: all 0.5s ease-in-out 0s;
@@ -973,7 +973,8 @@ header .logo-menu-wrap .menu > ul {
 }
 header .logo-menu-wrap .menu > ul > li {
   display: inline-block;
-  padding: 30px 35px 28px;
+  /*padding: 30px 35px 28px;*/
+  padding: 19px 35px 20px;
   position: relative;
   -webkit-transition: all 0.5s ease-in-out 0s;
   -moz-transition: all 0.5s ease-in-out 0s;
